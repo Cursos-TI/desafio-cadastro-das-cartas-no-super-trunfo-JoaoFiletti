@@ -13,7 +13,7 @@ int main(){
     float PIB1, PIB2;
 
     //Leitura dos dados da primeira Carta.
-    printf("Inisira os dados da primeira carta.\n"); //"Cabeçalho".
+    printf("Insira os dados da primeira carta.\n"); //"Cabeçalho".
 
     printf("Digite a inicial do Estado:\n");
     scanf(" %c", &estado1);
@@ -39,7 +39,7 @@ int main(){
     printf("===========================================\n");
 
     //Leitura dos dados da segunda Carta.
-    printf("Inisira os dados da segunda carta.\n"); //"Cabeçalho".
+    printf("Insira os dados da segunda carta.\n"); //"Cabeçalho".
 
     printf("Digite a inicial do Estado:\n");
     scanf(" %c", &estado2);
